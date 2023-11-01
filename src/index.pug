@@ -1,0 +1,10 @@
+doctype html
+html(lang="en")
+  head
+    link(rel="stylesheet", href="./app/styles/index.scss")
+  body
+    include widgets/header/ui/header
+    main.main
+      include entities/intro/ui/intro
+    include widgets/footer/ui/footer
+    script(type="module", src="./app/index.ts")
