@@ -15,6 +15,7 @@
     "@parcel/transformer-pug": "^2.10.1",
     "@parcel/transformer-sass": "^2.10.1",
     "@parcel/validator-eslint": "^2.10.1",
+    "@typescript-eslint/eslint-plugin": "^6.9.1",
     "eslint": "^7.32.0",
     "parcel": "latest",
     "parcel-reporter-clean-dist": "^1.0.4"
