@@ -1,5 +1,6 @@
 {
   "locals": {
-    "name": "Example"
+    "name": "Example",
+    "basedir": "src"
   }
 }
